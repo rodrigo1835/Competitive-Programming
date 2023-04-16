@@ -1,4 +1,4 @@
-# Almoço em Mangattan
+# Almoço em Manhattan
 
 Chico está de férias em Manhattan e quer almoçar, mas pretende gastar pouco com sua refeição. Após realizar uma rápida pesquisa na Internet, ele conseguiu uma lista com a localização (x,y)
  e o preço médio da refeição de diversos restaurantes. O que ele ainda não levou em consideração foi o custo de transporte!
