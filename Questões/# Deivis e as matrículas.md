@@ -9,21 +9,19 @@ A primeira linha de entrada contém um inteiro n (1 <= n <= 10), o número de am
 Imprima uma única linha: as matrículas de cada um dos amigos de Deivis, na ordem que foram lidos na entrada, separadas por um espaço.
 
 ### **Examples**
-#### **Input**<br>
-4<br>
+#### **Input**<br>4<br>
 Deivis<br>
 Veras<br>
 Taumaturgo<br>
 Andre<br>
 
-### **Output**
-1 3 2 0
+#### **Output**<br>1 3 2 0
 
-#### **Input**<br>
+#### **Input**
 1<br>
 Deivis<br>
 
-### **Output**
+#### **Output**
 0
 
 #### **Input**<br>
@@ -31,6 +29,6 @@ Deivis<br>
 Deivis<br>
 Doraaventureira<br>
 
-### **Output**
+#### **Output**
 0 1
 
