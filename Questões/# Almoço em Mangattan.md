@@ -47,7 +47,7 @@ Caso exista vários restaurantes empatados com menor preço, você deve imprimir
 4 4 10<br>
 10 -17 8
 
-### output
+#### output
 14 2
 
 #### input
@@ -55,7 +55,7 @@ Caso exista vários restaurantes empatados com menor preço, você deve imprimir
 -1 3 2<br>
 -1 2 4
 
-### output
+#### output
 6 1
 
 #### input
@@ -63,7 +63,7 @@ Caso exista vários restaurantes empatados com menor preço, você deve imprimir
 -1 2 4<br>
 -1 3 2
 
-### output
+#### output
 6 1
 
 #### input
@@ -73,10 +73,5 @@ Caso exista vários restaurantes empatados com menor preço, você deve imprimir
 -1 2 4<br>
 -1 3 2
 
-### output
+#### output
 5 2
-
-
-
-
-
