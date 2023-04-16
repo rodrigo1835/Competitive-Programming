@@ -23,13 +23,14 @@ Andre<br>
 1<br>
 Deivis<br>
 
-#### **Output**<br>0
+#### **Output**<br>
+0
 
 #### **Input**<br>
 2<br>
 Deivis<br>
 Doraaventureira<br>
 
-#### **Output**
-<br>0 1
+#### **Output**<br>
+0 1
 
