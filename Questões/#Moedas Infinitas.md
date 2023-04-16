@@ -1,4 +1,4 @@
-#Moedas Infinitas
+# Moedas Infinitas
 
 Eseila tem <b>A</b> moedas de 1-yen e infinitas moedas de 500 yen.
 
