@@ -20,6 +20,4 @@ int main()
         cout << "Sim" << "\n";
     else
         cout << "Nao" << "\n";
-
-
 }
